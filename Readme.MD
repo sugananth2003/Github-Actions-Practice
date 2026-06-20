@@ -4,4 +4,4 @@
 
 ## 1. Workflows 
 
-To create a GH actions workflow you need a folder called - '/github/workflow'
+To create a GH actions workflow you need a folder called - '/.github/workflow'
