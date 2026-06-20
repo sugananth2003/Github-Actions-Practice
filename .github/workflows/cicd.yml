@@ -12,8 +12,8 @@ on:
         type: choice
         options:
           - dev
-          - prod
           - staging
+          - prod
 
 jobs:
   # every job needs seperate runner, its called parallelism
